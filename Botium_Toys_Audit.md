@@ -57,10 +57,15 @@ Implement network patching and vulnerability remediation processes.
 🔹 Self-Assessment 🔹
 
 ✅ Did you review the scope, goals, and risk assessment? — Yes
+
 ✅ Did you consider risks to Botium Toys’ customers, employees, and/or assets? — Yes
+
 ✅ Did you review the control categories document? — Yes
+
 ✅ Did you select “yes” or “no” for each control listed? — Yes
+
 ✅ Did you select “yes” or “no” for each compliance best practice? — Yes
+
 
 🔹 Additional Notes 🔹
 
